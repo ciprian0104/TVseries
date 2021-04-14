@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TV Series Quiz</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="your_name">Your name</string>
+    <string name="tv_rating">What tv series are in IMDBs Top 10 ?</string>
+    <string name="what_is_the_genre_of">What genre are the following TV series?</string>
+    <string name="fargo">Fargo</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="crime">Crime</string>
+    <string name="romance">Romance</string>
+    <string name="scifi">Sci-Fi</string>
+    <string name="outlander">Outlander</string>
+    <string name="got">Game of Thrones</string>
+    <string name="sopranos">The Sopranos</string>
+    <string name="blackmirror">Black Mirror</string>
+    <string name="how_many_tv_series_have_you_watched">How many tv series have you watched?</string>
+    <string name="tv_series_quantity">10? 20? More? </string>
+    <string name="submit">SUBMIT</string>
+    <string name="perfect_score"> you got a perfect score ^_^ </string>
+    <string name="you_score"> you scored </string>
+    <string name="of_points"> points</string>
+</resources>
